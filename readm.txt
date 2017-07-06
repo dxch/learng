@@ -2,4 +2,5 @@ git
 is
 dxch
 study
-stupid
+
+sbsb
